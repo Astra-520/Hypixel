@@ -1,0 +1,41 @@
+name: Hypixel
+version: 1.0.2
+main: org.Hypixel.Main.Main
+api-version: 1.8
+depend: [ Citizens ]
+authors: [ 4347 ]
+description: Hypixel Plugin
+
+commands:
+  friend:
+    usage: <command>
+    description: A Hypixel Command
+    aliases: [f]
+  fl:
+    usage: <command>
+    description: A Hypixel Command
+    aliases: [flist]
+  rankcolor:
+    usage: <command>
+    description: A Hypixel Command
+  hypixelworld:
+    usage: <command>
+    description: A Hypixel Command
+  message:
+    usage: <command>
+    aliases: [msg]
+  pl:
+    description: A Hypixel Command
+    usage: <command>
+  party:
+    description: A Hypixel Command
+    usage: <command>
+    aliases: [p]
+  pchat:
+    description: A Hypixel Command
+    usage: <command>
+    aliases: [pc]
+  chat:
+    description: A Hypixel Command
+    usage: <command>
+    aliases: [ch]
